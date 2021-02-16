@@ -1,0 +1,7 @@
+name: RemoveItems
+version: ${project.version}
+main: net.bghddev.remove.removeitems.RemoveItems
+api-version: 1.16
+authors: [ Noodles, BGHDDevelopment ]
+description: Removes items that are not allowed.
+website: https://bghddevelopment.com
